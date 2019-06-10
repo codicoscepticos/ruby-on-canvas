@@ -1,5 +1,5 @@
 # Ruby On Canvas
-Using Opal to bring a Ruby-ish HTML5 Canvas API on the browser.
+Using [Opal](https://github.com/opal/opal) to bring a Ruby-ish HTML5 Canvas API on the browser.
 
 ### Demo
 Open `/app/rubycanvas.html` in the browser.
