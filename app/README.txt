@@ -1,6 +1,7 @@
 ﻿STEP #1:
 	Run "rb2js.bat".
-		=> [Compile and create the appropriate JS files, based on the user-created Ruby files.]
+		=>  [Compile and create the appropriate JS files,
+        based on the user-created Ruby files.]
 
 
 :: All is done! ::
